@@ -1,6 +1,6 @@
 /* Apply the background image and styling to the body */
 body {
-    background-image: url('C:\Users\pc\Desktop\Desktop - 1'); /* Adjust the path as necessary */
+    background-image: url('C:\Users\pc\Desktop\Desktop - 1.png'); /* Adjust the path as necessary */
     background-size: cover;  /* Cover the entire page */
     background-position: center;  /* Center the background image */
     background-repeat: no-repeat;  /* Do not repeat the image */
